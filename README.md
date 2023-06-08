@@ -6,7 +6,9 @@ My results:
 - [Presentation](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/presentation_fashion_ecommerce_analysis.pdf)
 - [Report](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/Report_ecommerce_analysis.pdf)
 
-Overview:
+Stack: SQL, Bigquery, Looker Studio.
+
+**Overview:**
 
 The top-selling product categories are Women's Clothing, Women's Shoes, and Men's Clothing, while the majority of the user base is between the ages of 20-32 years old, and females constitute more than 60% of the user base. Jakarta, Jawa Barat (Bandung), and Jawa Tengah (Semarang) are the top-performing cities, with an average purchase frequency of 9.2 times per year and an average order value of IDR 366,800. The popular payment methods on the platform are e-wallets like OVO and Gopay, and credit cards.
 
