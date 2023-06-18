@@ -2,9 +2,7 @@
 I analysed the fashion e-commerce dataset for the period from June 30, 2016, to July 31, 2022, to identify key trends and insights. 
 
 My results:
-- [Dashboard](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/Fashion_e-commerce_analysis.pdf)
-- [Presentation](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/presentation_fashion_ecommerce_analysis.pdf)
-- [Report](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/Report_ecommerce_analysis.pdf)
+- Dashboard [Looker Studio](https://lookerstudio.google.com/s/sz8iHaF3ZJM), [PDF](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/Fashion_e-commerce_analysis.pdf)
 - [Data analysis using colab notebook](https://github.com/uzhegovaelena/ecommerce_analysis/blob/main/e_commerce.ipynb)
 
 Stack: Python, Colab notebook, SQL, Bigquery, Looker Studio.
