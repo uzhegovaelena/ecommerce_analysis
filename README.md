@@ -9,7 +9,7 @@ Stack: Python, Colab notebook, SQL, Bigquery, Looker Studio.
 
 **Overview:**
 
-The top-selling product categories are Women's Clothing, Women's Shoes, and Men's Clothing, while the majority of the user base is between the ages of 20-32 years old, and females constitute more than 60% of the user base. Jakarta, Jawa Barat (Bandung), and Jawa Tengah (Semarang) are the top-performing cities, with an average purchase frequency of 9.2 times per year and an average order value of IDR 366,800. The popular payment methods on the platform are e-wallets like OVO and Gopay, and credit cards.
+The top-selling product categories are Topwear, Shoes and Bags, while the majority of the user base is between the ages of 20-32 years old, and females constitute more than 60% of the user base. Jakarta, Jawa Barat (Bandung), and Jawa Tengah (Semarang) are the top-performing cities, with an average purchase frequency of 9.2 times per year and an average order value of USD 36.9. The popular payment methods on the platform are Credit cards and e-wallet like Gopay.
 
 The RFM (Recency, Frequency, Monetary) analysis was conducted to identify high-value customers and develop effective marketing campaigns. Overall, the RFM analysis highlights the importance of personalization and customer retention for the company's growth and success.
 
